@@ -1,12 +1,13 @@
+
 # 📈 Bitácora de Progreso
 
 Registro de lo que voy aprendiendo día a día en Java.
 
----
+
 
 ## 🗓️ Sesión 1 — Configuración del entorno
 
-**Fecha:** (pon la fecha de hoy)
+**Fecha:** (13 de septiembre del 2026)
 
 ### Lo que hice:
 - Instalé JDK 21 LTS (Eclipse Temurin)
