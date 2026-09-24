@@ -5,6 +5,34 @@ Registro de lo que voy aprendiendo día a día en Java.
 ---
 ---
 ---
+---
+
+## 📅 Sesión 5 — Bucles
+
+**Fecha:** (22 de septiembre de 2026)
+
+### Lo que hice:
+- Creé el programa `Bucles.java`
+- Implementé un bucle `for` para imprimir números del 1 al 100
+- Implementé un bucle `while` con un acumulador para sumar números ingresados por el usuario
+- El bucle `while` se detiene cuando el usuario ingresa un número negativo
+
+### Lo que aprendí:
+- Bucle `for`: estructura y uso cuando se conoce el número de repeticiones
+- Bucle `while`: estructura y uso cuando la repetición depende de una condición
+- Uso de variables acumuladoras (suma)
+- Uso de `if` dentro de un bucle para validar condiciones
+- Importancia de cerrar el `Scanner` al final del programa
+- Cuidado con la posición de las llaves `{}` para no cerrar bloques antes de tiempo
+
+### Próximo paso:
+- Programa `TablaMultiplicar.java`
+- Conceptos: bucle `for` con entrada de usuario y cálculo de multiplicaciones
+
+### Dudas pendientes:
+- (ninguna por ahora)
+
+---
 
 ## 📅 Sesión 4 — Condicionales
 
